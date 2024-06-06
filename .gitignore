@@ -161,4 +161,3 @@ cython_debug/
 data/Task2.zip
 data/processed/mobilisation.csv
 data/processed/incident.csv
-test.ipynb
