@@ -162,3 +162,6 @@ data/Task2.zip
 data/processed/mobilisation.csv
 data/processed/incident.csv
 test.ipynb
+
+# spatial cluster heatmap 
+clustered_heatmap.html
